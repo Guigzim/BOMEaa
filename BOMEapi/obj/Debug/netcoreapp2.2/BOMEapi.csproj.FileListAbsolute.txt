@@ -1,0 +1,8 @@
+C:\Users\guilh\Desktop\BOME\BOME\BOMEapi\bin\Debug\netcoreapp2.2\BOMEapi.deps.json
+C:\Users\guilh\Desktop\BOME\BOME\BOMEapi\bin\Debug\netcoreapp2.2\BOMEapi.runtimeconfig.json
+C:\Users\guilh\Desktop\BOME\BOME\BOMEapi\bin\Debug\netcoreapp2.2\BOMEapi.runtimeconfig.dev.json
+C:\Users\guilh\Desktop\BOME\BOME\BOMEapi\bin\Debug\netcoreapp2.2\BOMEapi.dll
+C:\Users\guilh\Desktop\BOME\BOME\BOMEapi\obj\Debug\netcoreapp2.2\BOMEapi.csprojAssemblyReference.cache
+C:\Users\guilh\Desktop\BOME\BOME\BOMEapi\obj\Debug\netcoreapp2.2\BOMEapi.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\BOME\BOME\BOMEapi\obj\Debug\netcoreapp2.2\BOMEapi.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\BOME\BOME\BOMEapi\obj\Debug\netcoreapp2.2\BOMEapi.AssemblyInfo.cs
